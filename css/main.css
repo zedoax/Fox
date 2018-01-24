@@ -21,6 +21,14 @@ nav.navbar img {
     border-radius: 50%;
 }
 
+ul.nav a {
+    color: #eeeeee !important;
+}
+
+ul.nav a:hover {
+    color: #ffffff !important;
+}
+
 /* ==========================================================================
    Notification Styles
    ========================================================================== */
